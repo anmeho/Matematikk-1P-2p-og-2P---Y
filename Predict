@@ -1,0 +1,6 @@
+timelønn = 250
+timer = 16
+lønn = timelønn * timer
+
+print("Du tjener", lønn, "kroner")
+print(f"Du tjener {lønn:.3f} kroner")
